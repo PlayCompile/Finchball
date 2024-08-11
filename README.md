@@ -7,7 +7,7 @@ A simple tabletop game built in Unity as a learning project. This game was devel
 
 ![Gameplay Screenshot](Assets/ssFinchball.png)
 
-Top simply play the game, download from the Releases tab!
+To simply play the game, download from the Releases tab!
 - Here: https://github.com/PlayCompile/Finchball/releases/tag/game
 
 ## Features
