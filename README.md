@@ -2,8 +2,8 @@
 
 A simple tabletop game built in Unity as a learning project. This game was developed as a tutorial, focusing on basic Unity concepts, such as 2D physics, UI management, and game state handling.
 
-Part 1: https://www.youtube.com/watch?v=oQxiH6tVM1Q
-Part 2: https://www.youtube.com/watch?v=oQxiH6tVM1Q
+- Part 1: https://www.youtube.com/watch?v=oQxiH6tVM1Q
+- Part 2: https://www.youtube.com/watch?v=oQxiH6tVM1Q
 
 ![Gameplay Screenshot](Assets/ssFinchball.png)
 
