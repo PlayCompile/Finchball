@@ -8,13 +8,14 @@ A simple tabletop game built in Unity as a learning project. This game was devel
 ![Gameplay Screenshot](Assets/ssFinchball.png)
 
 Top simply play the game, download from the Releases tab!
+- Here: https://github.com/PlayCompile/Finchball/releases/tag/game
 
 ## Features
 - Turn-based gameplay
-- Customizable player characters
-- Dice roll mechanics
-- AI opponents
-- Win/Loss conditions
+- Unity physics
+- Triger collider detection
+- Player score & lives
+- 4 unique levels
 
 ## Installation and Setup (Unity Project)
 1. **Clone the repository:**
